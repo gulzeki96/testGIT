@@ -15,3 +15,5 @@ pull etmeden main update denemesi: git push hata verdi.
   hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 testConflict branch olusturuldu, maindeki degisiklikler buraya merge edildi.
+
+testConflict branch icerisinde rebase kullanarak testConflict icerisine maindeki dosya eklemelerini aktarabildik.
