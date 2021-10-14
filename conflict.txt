@@ -1,0 +1,1 @@
+github uzerinde main branch'e conflict ekleyip GIT ile main update denenecek.
