@@ -17,3 +17,5 @@ pull etmeden main update denemesi: git push hata verdi.
 testConflict branch olusturuldu, maindeki degisiklikler buraya merge edildi.
 
 testConflict branch icerisinde rebase kullanarak testConflict icerisine maindeki dosya eklemelerini aktarabildik.
+
+ayni dosya icerisinde olusacak cakismalar elle duzeltilmeli.
