@@ -7,4 +7,6 @@ helloWorldBranch & main branch merge edildi.
 
 merhaba dunya
 
-bende buradayim
+bende buradaydim
+
+selam2
